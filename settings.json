@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Survivaldoscria244.aternos.me",
+    "ip": "Survivaldoscria244.aternos.me:19690",
     "port": 19690,
-    "version": "",
+    "version": "1.8.8",
     "try-creative": false
   },
   "position": {
